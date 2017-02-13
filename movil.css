@@ -1,0 +1,25 @@
+@font-face{
+	font-family:mifuente;
+	src:url("3Dumb.ttf");
+}
+body{
+	background-color: #AAB1B0;
+	color: black;
+	font-family: mifuente;
+}
+title{
+	display: none;
+}
+#lat{
+	float: left;
+	width: 20%;
+}
+#centro{
+	text-align: center;
+}
+#pie{
+	display: none;
+}
+#fecha{
+	text-align: right;
+}
